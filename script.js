@@ -23,7 +23,7 @@ $(document).ready(function () {
   //typing animation script
 
   var typed = new Typed(".typing", {
-    strings: ["IITan", "Developer", "Designer", "SDE"],
+    strings: ["IITan", "Developer", "Designer"],
     typeSpeed: 100,
     backSpeed: 60,
     loop: true,
