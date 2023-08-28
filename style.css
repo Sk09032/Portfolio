@@ -356,7 +356,10 @@ section {
   width: 40%;
 }
 .skill-content .right .DSA::before{
-  width: 60%;
+  width: 80%;
+}
+.skill-content .right .MERN::before {
+  width: 70%;
 }
 
 /* project styling */
